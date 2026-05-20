@@ -6,7 +6,7 @@
 export function validarEmpresa(valor) {
   const limpo = valor.trim()
   if (!limpo) return 'Obrigatório'
-  if (limpo.length < 1) return 'Mínimo 2 caracteres'
+  if (limpo.length < 1) return 'Mínimo 1 caractere'
   return null
 }
 
