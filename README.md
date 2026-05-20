@@ -96,15 +96,13 @@ src/
 
 ## Capturas de tela
 
-> *Coloque os PNGs em uma pasta `screenshots/` na raiz e ajuste os caminhos abaixo.*
-
 | Tela | Captura |
 |------|---------|
-| Entrada (escolha do consultor) | ![Entrada](./screenshots/01-entrada.png) |
-| Dashboard com busca | ![Dashboard](./screenshots/02-dashboard.png) |
-| Cadastro com validação | ![Cadastro](./screenshots/03-cadastro.png) |
-| Detalhe + checklist | ![Detalhe](./screenshots/04-detalhe.png) |
-| Read-only para outros consultores | ![Read-only](./screenshots/05-readonly.png) |
+| Entrada (escolha do consultor) | <img width="500" alt="Tela de entrada" src="https://github.com/user-attachments/assets/1341da0c-18f4-4e45-9db9-a7ffed5ce1af" /> |
+| Dashboard com busca | <img width="500" alt="Dashboard" src="https://github.com/user-attachments/assets/0fee87dd-2c37-4234-8856-9725171f5d97" /> |
+| Cadastro com validação | <img width="500" alt="Cadastro" src="https://github.com/user-attachments/assets/67220873-4725-4a1d-b87c-dd7b7f540b7d" /> |
+| Detalhe + checklist | <img width="500" alt="Detalhe do cliente" src="https://github.com/user-attachments/assets/4a1ae8e8-131d-4e1d-a009-63502f5e2c58" /> |
+| Read-only para outros consultores | <img width="500" alt="Aviso de read-only" src="https://github.com/user-attachments/assets/4d2054b7-887c-4528-8726-396f2754c737" /> |
 
 ---
 
