@@ -5,7 +5,7 @@ Ferramenta interna para gerenciar o onboarding de novos clientes Maiver. MVP con
 Antes de tudo gostaria de destacar que me desafiei em tentar fazer esse desafio no máximo em 2 horas.
 O Tempo total gasto foi de 1 hora e 56 minutos.
 
-🔗 **Aplicação rodando:** [https://vercel.com/thalesabdons-projects/maiver-desafio-vibe-coding-frontend](https://https://vercel.com/thalesabdons-projects/maiver-desafio-vibe-coding-frontend) *(substitua pela sua URL real)*
+🔗 **Aplicação rodando:** [https://maiver-desafio-vibe-coding-frontend.vercel.app/](https://maiver-desafio-vibe-coding-frontend.vercel.app/)
 📓 **Diário de uso da IA:** [DIARIO-IA.md](./DIARIO-IA.md)
 
 ---
